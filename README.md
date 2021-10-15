@@ -1,6 +1,7 @@
 ###
 
-Oi, eu sou o Fabio. Tech Lead na <a href="http://alpar.com.br" target="_blanc">Alpar e Dev front</a>.
+Oi, eu sou o Fabio.
+Tech Lead na <a href="http://alpar.com.br" target="_blanc">Alpar</a> e Dev front.
 Meu foco atual é Servicenow e as tecnologias que o compõe.
 
 <!--
